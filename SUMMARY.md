@@ -10,6 +10,7 @@
 
 * [JPA](jpa/jpa/README.md)
   * [Java Persistence Api](jpa/jpa/java-persistence-api.md)
+  * [@OneToOne 관계의 Lazy 로딩](jpa/jpa/onetoone-lazy.md)
 
 ## Books
 
