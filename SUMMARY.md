@@ -4,7 +4,8 @@
 
 ## Language
 
-* [Java](language/java.md)
+* [Java](language/java/README.md)
+  * [JVM - Garbage Collection](language/java/jvm-garbage-collection.md)
 
 ## JPA
 
