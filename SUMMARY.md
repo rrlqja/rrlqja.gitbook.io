@@ -35,8 +35,4 @@
 
 ## etc
 
-* [Page 1](etc/page-1.md)
-
-
-
-
+* [Jwt와 Refresh Token](etc/page-1.md)
