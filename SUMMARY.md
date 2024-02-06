@@ -31,7 +31,8 @@
 
 ## Books
 
-* [객체지향의 사실과 오해](books/undefined.md)
+* [객체지향의 사실과 오해](books/undefined/README.md)
+  * [5장. 책임과 메시지](books/undefined/5-..md)
 
 ## etc
 
