@@ -38,14 +38,14 @@ destination 헤더의 경우 정해진 규칙은 없고, 전적으로 애플리�
 
     <div align="left">
 
-    <figure><img src="../.gitbook/assets/stomp message flow nobroker.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/stomp message flow nobroker.png" alt="" width="563"><figcaption></figcaption></figure>
 
     </div>
 *   외부 `Message Broker`를 사용할 경우
 
     <div align="left">
 
-    <figure><img src="../.gitbook/assets/stomp message flow withbroker.png" alt="" width="563"><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/stomp message flow withbroker.png" alt="" width="563"><figcaption></figcaption></figure>
 
     </div>
 
