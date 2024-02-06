@@ -133,18 +133,15 @@ access token과 refresh token을 구분지었지만 access token 뿐만 아니�
 
 #### 참고
 
-[https://hudi.blog/refresh-token/](https://hudi.blog/refresh-token/)
-
+[https://hudi.blog/refresh-token/](https://hudi.blog/refresh-token/)\
 \
-[https://stackoverflow.com/questions/32060478/is-a-refresh-token-really-necessary-when-using-jwt-token-authentication](https://stackoverflow.com/questions/32060478/is-a-refresh-token-really-necessary-when-using-jwt-token-authentication)
-
+[https://stackoverflow.com/questions/32060478/is-a-refresh-token-really-necessary-when-using-jwt-token-authentication](https://stackoverflow.com/questions/32060478/is-a-refresh-token-really-necessary-when-using-jwt-token-authentication)\
 \
 [https://pragmaticwebsecurity.com/articles/oauthoidc/refresh-token-protection-implications.html](https://pragmaticwebsecurity.com/articles/oauthoidc/refresh-token-protection-implications.html)\
-[https://betterprogramming.pub/should-we-store-tokens-in-db-af30212b7f22](https://betterprogramming.pub/should-we-store-tokens-in-db-af30212b7f22)
-
 \
-[https://stackoverflow.com/questions/3487991/why-does-oauth-v2-have-both-access-and-refresh-tokens/12885823](https://stackoverflow.com/questions/3487991/why-does-oauth-v2-have-both-access-and-refresh-tokens/12885823)
-
+[https://betterprogramming.pub/should-we-store-tokens-in-db-af30212b7f22](https://betterprogramming.pub/should-we-store-tokens-in-db-af30212b7f22)\
+\
+[https://stackoverflow.com/questions/3487991/why-does-oauth-v2-have-both-access-and-refresh-tokens/12885823](https://stackoverflow.com/questions/3487991/why-does-oauth-v2-have-both-access-and-refresh-tokens/12885823)\
 \
 [https://dev.to/cotter/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-15id](https://dev.to/cotter/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-15id)
 
