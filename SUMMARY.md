@@ -9,7 +9,7 @@
 
 ## framework
 
-* [Page 2](framework/page-2.md)
+* [스프링 STOMP](framework/page-2.md)
 
 ## os
 
