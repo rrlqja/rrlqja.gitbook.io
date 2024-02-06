@@ -32,6 +32,7 @@
 ## Books
 
 * [객체지향의 사실과 오해](books/undefined/README.md)
+  * [4장. 역할, 책임, 협력](books/undefined/4-..md)
   * [5장. 책임과 메시지](books/undefined/5-..md)
 
 ## etc
