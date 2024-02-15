@@ -24,7 +24,7 @@
 
 ## database
 
-<!-- * [Page 4](database/page-4.md) -->
+* [Page 4](database/page-4.md)
 
 ## network
 
