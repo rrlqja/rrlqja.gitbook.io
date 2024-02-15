@@ -36,6 +36,6 @@
   * [4장. 역할, 책임, 협력](books/undefined/4-..md)
   * [5장. 책임과 메시지](books/undefined/5-..md)
 
-## etc
+## Web
 
 * [Jwt와 Refresh Token](etc/page-1.md)
