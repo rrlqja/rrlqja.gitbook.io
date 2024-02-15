@@ -26,6 +26,8 @@
   * [데이터 모델](database/database/page-4.md)
   * [데이터베이스 키](database/database/undefined.md)
   * [데이터베이스 정규화](database/database/undefined-1.md)
+* [Mysql](database/mysql/README.md)
+  * [Mysql](database/mysql/mysql.md)
 
 ## Books
 
