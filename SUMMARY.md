@@ -22,8 +22,10 @@
 
 ## database
 
-* [데이터 모델](database/page-4.md)
-* [데이터베이스 키](database/undefined.md)
+* [Database](database/database/README.md)
+  * [데이터 모델](database/database/page-4.md)
+  * [데이터베이스 키](database/database/undefined.md)
+  * [데이터베이스 정규화](database/database/undefined-1.md)
 
 ## Books
 
